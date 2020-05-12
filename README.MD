@@ -12,6 +12,8 @@
 
 # usage
 
+### run with Administrative permission.
+
 `patch: vscode-smooth-cursor-patch <vscode_install_path>`
 
 > vscode-smooth-cursor-patch "C:\Program Files\Microsoft VS Code"
