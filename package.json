@@ -1,0 +1,16 @@
+{
+  "name": "vscode-smooth-cursor-patch",
+  "bin": {
+    "vscode-smooth-cursor-patch": "./index.js"
+  },
+  "version": "1.0.0",
+  "description": "Smooth Cursor/Typing Animation like Microsoft Office in Visual Studio Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Riaz Laskar @riazXrazor"
+  },
+  "license": "MIT"
+}
