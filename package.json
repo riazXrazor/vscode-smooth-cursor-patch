@@ -3,7 +3,7 @@
   "bin": {
     "vscode-smooth-cursor-patch": "./index.js"
   },
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Smooth Cursor/Typing Animation like Microsoft Office in Visual Studio Code",
   "main": "index.js",
   "scripts": {

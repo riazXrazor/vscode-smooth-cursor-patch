@@ -1,5 +1,9 @@
 # vscode-smooth-cursor-patch
+
 ## tested only on windows
+
+### Smooth Cursor/Typing Animation like Microsoft Office in Visual Studio Code
+
 # Install
 
 > npm i -g vscode-smooth-cursor-patch
