@@ -1,5 +1,5 @@
 # vscode-smooth-cursor-patch
-
+## tested only on windows
 # Install
 
 > npm i -g vscode-smooth-cursor-patch
