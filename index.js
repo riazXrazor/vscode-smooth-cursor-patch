@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var fs = require("fs");
 var path = require("path");
 var vscodepath = process.argv[2]; // vscode install path
