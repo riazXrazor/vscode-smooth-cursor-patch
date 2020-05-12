@@ -8,11 +8,11 @@
 
 # usage
 
-`patch: vscode-smooth-cursor-patch <vacode_install_path>`
+`patch: vscode-smooth-cursor-patch <vscode_install_path>`
 
 > vscode-smooth-cursor-patch "C:\Program Files\Microsoft VS Code"
 
-`unpatch: vscode-smooth-cursor-patch <vacode_install_path> -c`
+`unpatch: vscode-smooth-cursor-patch <vscode_install_path> -c`
 
 > vscode-smooth-cursor-patch "C:\Program Files\Microsoft VS Code" -c
 
