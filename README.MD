@@ -1,3 +1,7 @@
+# The feature is already there in vscode so there is no need for this package.
+
+![vscode-smooth-cursor-patch usage](https://raw.githubusercontent.com/riazXrazor/vscode-smooth-cursor-patch/master/smooth.PNG)
+
 # vscode-smooth-cursor-patch
 
 ## tested only on windows
